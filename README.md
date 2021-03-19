@@ -1,5 +1,5 @@
 基于ik分词器使用mysql进行动态扩展词库
-https://www.yuque.com/docs/share/55990fbe-7693-433c-80f9-9bca57dc8b6a?# 《ik分词器改造》
+### https://www.yuque.com/docs/share/55990fbe-7693-433c-80f9-9bca57dc8b6a?# 《ik分词器改造》
 IK Analysis for Elasticsearch
 =============================
 
